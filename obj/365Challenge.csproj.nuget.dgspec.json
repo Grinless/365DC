@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\Learning\\365 Day Challenge\\365Challenge\\365Challenge.csproj": {}
+    "D:\\Programing\\Learning\\365 Day Challenge\\Repo\\365Challenge.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\Learning\\365 Day Challenge\\365Challenge\\365Challenge.csproj": {
+    "D:\\Programing\\Learning\\365 Day Challenge\\Repo\\365Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\Learning\\365 Day Challenge\\365Challenge\\365Challenge.csproj",
+        "projectUniqueName": "D:\\Programing\\Learning\\365 Day Challenge\\Repo\\365Challenge.csproj",
         "projectName": "365Challenge",
-        "projectPath": "D:\\Programing\\Learning\\365 Day Challenge\\365Challenge\\365Challenge.csproj",
+        "projectPath": "D:\\Programing\\Learning\\365 Day Challenge\\Repo\\365Challenge.csproj",
         "packagesPath": "C:\\Users\\GRINLESS\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\Learning\\365 Day Challenge\\365Challenge\\obj\\",
+        "outputPath": "D:\\Programing\\Learning\\365 Day Challenge\\Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
